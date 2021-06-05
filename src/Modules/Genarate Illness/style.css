@@ -1,0 +1,290 @@
+.valid{
+  color: green;   
+  font-weight: 900;
+  text-align: justify;  
+}
+.invalid{
+ color: red;
+ font-weight: 400;
+ font-size: 12px;
+ text-align: justify;  
+}
+.section{
+padding: 20px;
+position: relative;
+}
+.label{
+font-size: 18px; 
+}
+.CataractLeft{
+left: -148px; 
+}
+.CataractRight{
+left: -380px; 
+}
+.Glaucoma{
+left:-29px;
+}
+.Sprint{
+left: 10px; 
+}
+.Diabetict{
+left: 30px;
+}
+.Cardiac{
+left: 30px; 
+}
+.OneEye{
+left: 30px;
+}
+.topic{
+font-size:25px;
+}
+.illnesslabel{
+ right:105px;
+}
+.inputLabel{
+
+margin-right: 460px;
+}
+.dropdownLabel1{
+margin-right: 360px;
+}
+.visualAccL{
+width: 420px
+}
+.dropdownLabel2{
+margin-right: 350px;
+}
+.visualAccR{
+width: 420px;
+}
+.dropdownLabel3{
+margin-right: 410px;
+}
+.hypertenInput{
+width: 420px;
+}
+.inputRefLabel{
+margin-right: 360px;
+}
+.inputRef{
+width: 420px;
+}
+.inputLabel2{
+margin-right: 430px;
+}
+.inputLabel3{
+margin-right: 410px;
+}
+.cataractLabel{
+margin-right: 330px;
+}
+.IPDLabel{
+margin-right: 473px;
+}
+.IPDinput{
+width: 420px;
+}
+.IOPLabel{
+margin-right: 473px;
+}
+.IOPinput{
+width: 420px;
+}
+.Ptag{
+margin-right: 60px;
+}
+.Ptag2{
+margin-right: 30px;
+}
+.Ptag3{
+margin-right: 30px;
+}
+.mainTopicI{
+color: rgb(39, 38, 38);
+font-weight: 300;
+text-shadow: 2px 2px 2px rgb(189, 185, 185);
+text-align: left;
+}
+.form-label-left{
+margin-left: -100px;
+}
+.space{
+  margin-top: 36px;
+}
+/* New Add 02/20*/
+.data-table{
+margin-left: 14px;
+width: 970px;
+font-size: 16px;
+}
+.line{
+border-top: 1px solid rgb(230, 235, 230);
+border-bottom: 1px solid rgb(235, 238, 235);
+width: 970px;}
+
+.input1{
+  width: 420px;
+ }
+ .input2{
+  width: 420px;
+ }
+ .ExainedBy{
+  width: 420px;
+ }
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px){
+  .valid{
+    color: green;   
+    font-weight: 900;
+    text-align: justify;  
+  }
+.invalid{
+   color: red;
+   font-weight: 400;
+   font-size: 12px;
+   text-align: justify;  
+ }
+.section{
+  padding: 20px;
+  position: relative;
+ }
+.label{
+  font-size: 18px; 
+ }
+.CataractLeft{
+  left: -40px; 
+}
+ .CataractRight{
+  left: -200px; 
+ }
+ .cataractLabel{
+  margin-right: 580px;
+}
+
+ .topic{
+  font-size:25px;
+ }
+
+ .illnesslabel{
+   right:-20px;
+ }
+ .Glaucoma{
+  left:55px;
+ }
+ .Sprint{
+  left: 55px; 
+ }
+ .Diabetict{
+  left: 55px;
+ }
+ .Cardiac{
+  left: 55px; 
+ }
+ .OneEye{
+  left: 55px;
+ }
+
+.inputLabel{
+  margin-right: 220px;
+}
+.input1{
+ left: 60px;
+}
+.inputLabel2{
+  margin-right: 300px;
+}
+.input2{
+  left: 5px;
+ }
+.dropdownLabel1{
+  margin-right: 110px;
+}
+.visualAccL{
+left: 60px
+}
+.dropdownLabel2{
+  margin-right: 210px;
+}
+.visualAccR{
+  left: 10px;
+}
+.dropdownLabel3{
+  margin-right: 175px;
+}
+.ExainedBy{
+  left: 60px;
+ }
+.inputRefLabel{
+  margin-right: 210px;
+}
+.inputRef{
+  left: 10px;
+}
+
+.inputLabel3{
+  margin-right: 260px;
+}
+.hypertenInput{
+  left: 10px;
+}
+.IPDLabel{
+  margin-right: 230px;
+}
+.IPDinput{
+ left: 60px;
+}
+.IOPLabel{
+  margin-right: 230px;
+}
+
+.IOPinput{
+left: 60px;
+}
+.Ptag{
+  margin-right: -70px;
+}
+
+.Ptag2{
+  margin-right: -90px;
+}
+.Ptag3{
+  margin-right: -5px;
+}
+.mainTopicIllness{
+  color: rgb(39, 38, 38);
+  font-weight: 300;
+  text-shadow: 2px 2px 2px rgb(189, 185, 185);
+  text-align: center;
+  margin-left: -80px;
+  }
+  .form-label-left{
+  margin-left: -100px;
+  }
+  .space{
+    margin-top: 36px;
+  }
+  /* New Add 02/20*/
+.data-table{
+  margin-left: 14px;
+  width: 970px;
+  font-size: 16px;
+}
+.line{
+  border-top: 1px solid rgb(230, 235, 230);
+  border-bottom: 1px solid rgb(235, 238, 235);
+  width: 970px;}
+}  
+@media (max-width: 768px){
+  
+}

@@ -1,0 +1,36 @@
+ /* .hr{
+       margin-top: -18px;
+       background-color: rgba(255, 0, 0, 0.322);
+       box-shadow: -2px -2px 5px 3px rgba(163, 52, 52, 0.349);
+       width: 340px;
+     }
+     .hrvalid{
+      margin-top: -18px;
+      background-color: rgba(15, 179, 51, 0.315);
+      box-shadow: -2px -2px 5px 3px rgba(52, 163, 76, 0.349);
+      width: 340px;
+
+     } */
+
+
+     .validone{
+      margin-top: 0px;
+      background-color: rgba(15, 179, 51, 0.315);
+      box-shadow: -2px -2px 5px 3px rgba(52, 163, 76, 0.349);
+      text-align: left;
+      margin-left: 10px;
+     }
+
+     .invalidone{
+       color: red;
+      font-weight: 600; 
+      font-size: 12px;
+      text-align: left;
+
+      
+     margin-top: 4px;
+      margin-bottom: 1px;  
+      text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    }
+
+  

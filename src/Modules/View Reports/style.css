@@ -1,0 +1,302 @@
+.mainTopicI{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: left;
+    }
+    .form-label-left{
+    margin-left: -100px;
+    
+    
+    }  
+
+    .position{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5em;   
+    }   
+    .textDecor{
+    
+        border: hidden !important;
+        
+    }
+    .textAlign{
+        border: hidden !important;
+        text-align: center;
+    }
+    
+    .tableTopicAlign{
+        text-align: left;
+        margin-left: 26px;
+        margin-right: 19px;
+    }
+    .searchbutton{
+        float: right;
+        margin-right: -290px;
+        height: 35px; 
+    }
+
+    .search2{
+        width: 200px;
+        float: right;
+        margin-bottom: 10px;
+        height: 35px;
+        margin-right: -136px;  
+    }  
+
+
+    .inputLabel{
+        margin-right: 450px;
+      }
+      .inputLabel2{
+        margin-right: 380px;
+      }
+
+      .dropdownLabel1{
+        margin-right: 350px;
+      }
+
+      .dropdownLabel2{
+        margin-right: 340px;
+      }
+      .IPDLabel{
+        margin-right: 473px;
+      }
+      .inputRefLabel{
+        margin-right: 350px;
+      }
+      .inputCataractLLabel{
+        margin-right: 400px;
+      }
+.inputCataractRLabel{
+    margin-right: 400px;
+}
+.IOPLabel{
+    margin-right: 473px;
+  }
+  .glaucomaLabel{
+    margin-right: 420px;
+  }
+  .SprintLabel{
+    margin-right: 450px;
+  }
+  .diabeticsLabel{
+    margin-right: 420px;
+  }
+  .cardiacLabel{
+    margin-right: 440px;  
+  }
+  .OneEyeLabel{
+    margin-right: 420px; 
+  }
+  .inputLabel3{
+    margin-right: 400px;
+  }
+  .dropdownLabel3{
+    margin-right: 400px;
+  }
+
+  .visualAccL{
+    width: 420px
+   }
+   .visualAccR{
+    width: 420px;
+  }
+  .hypertenInput{
+    width: 420px;
+  }
+  .inputRef{
+    width: 420px;
+  }
+  .IPDinput{
+    width: 420px;
+  }
+  .IOPinput{
+    width: 420px;
+  }
+  .input1{
+    width: 420px;
+   }
+   .input2{
+    width: 420px;
+   }
+   .ExainedBy{
+    width: 420px;
+   }
+.inputCataractL{
+    width: 420px;
+}
+.inputCataractR {
+    width: 420px;
+}
+.glaucomaInput{
+    width: 420px;
+}
+.SprintInput{
+    width: 420px;
+}
+.diabeticsInput{
+    width: 420px;
+}
+.cardiacInput{
+    width: 420px;
+}
+.OneEyeInput{
+    width: 420px;
+}
+
+   @media (max-width: 1024px){
+
+    
+.mainTopicI{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: left;
+    }
+    .form-label-left{
+    margin-left: -100px;
+    
+    
+    }  
+
+    .position{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5em;   
+    }   
+    .textDecor{
+    
+        border: hidden !important;
+        
+    }
+    .textAlign{
+        border: hidden !important;
+        text-align: center;
+    }
+    
+    .tableTopicAlign{
+        text-align: left;
+        margin-left: 26px;
+        margin-right: 19px;
+    }
+    .searchbutton{
+        float: right;
+        margin-right: -290px;
+        height: 35px; 
+    }
+
+    .search2{
+        width: 200px;
+        float: right;
+        margin-bottom: 10px;
+        height: 35px;
+        margin-right: -136px;  
+    }  
+
+
+    .inputLabel{
+        margin-right: 200px;
+      }
+      .inputLabel2{
+        margin-right: 250px;
+      }
+
+      .dropdownLabel1{
+        margin-right: 100px;
+      }
+
+      .dropdownLabel2{
+        margin-right: 200px;
+      }
+      .IPDLabel{
+        margin-right: 220px;
+      }
+      .inputRefLabel{
+        margin-right: 210px;
+      }
+      .inputCataractLLabel{
+        margin-right: 150px;
+      }
+.inputCataractRLabel{
+    margin-right: 240px;
+}
+.IOPLabel{
+    margin-right: 210px;
+  }
+  .glaucomaLabel{
+    margin-right:290px;
+  }
+  .SprintLabel{
+    margin-right: 210px;
+  }
+  .diabeticsLabel{
+    margin-right: 300px;
+  }
+  .cardiacLabel{
+    margin-right: 200px;  
+  }
+  .OneEyeLabel{
+    margin-right: 300px; 
+  }
+  .inputLabel3{
+    margin-right: 150px;
+  }
+  .dropdownLabel3{
+    margin-right: 270px;
+  }
+
+  .visualAccL{
+    width: 420px
+   }
+   .visualAccR{
+    width: 420px;
+  }
+  .hypertenInput{
+    left: 60px;
+  }
+  .inputRef{
+    width: 420px;
+  }
+  .IPDinput{
+    width: 420px;
+  }
+  .IOPinput{
+    width: 420px;
+  }
+  .input1{
+    width: 420px;
+   }
+   .input2{
+    width: 420px;
+   }
+   .ExainedBy{
+    left:2px;
+   }
+.inputCataractL{
+   left: 60px;
+}
+.inputCataractR {
+   left: 5px;
+}
+.glaucomaInput{
+    width: 420px;
+}
+.SprintInput{
+    left: 60px;
+}
+.diabeticsInput{
+    width: 420px;
+}
+.cardiacInput{
+    left:60px;
+}
+.OneEyeInput{
+    left: 1px;
+}
+
+   }

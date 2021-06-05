@@ -1,0 +1,40 @@
+/* New Add 02/20*/
+
+.mainTopicPO{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: center;
+    margin-left: -80px;
+    }
+.line{
+border-top: 1px solid rgb(230, 235, 230);
+border-bottom: 1px solid rgb(235, 238, 235);
+width: 970px;
+margin-left: -15px;
+
+
+}
+
+.data-table1{
+    margin-left: -80px;
+    width:1040px;
+    text-align: left;
+    font-size: 16px;
+}
+.searchInpostops{
+    float: right;
+    margin-right: 136px;
+    height: 35px;
+}
+.searchbuttoninpostops{
+    float: right;
+    margin-right: -260px;
+    height: 35px;
+    
+}
+.status{
+    right: 123px;  
+    font-size: 17px;
+ 
+}

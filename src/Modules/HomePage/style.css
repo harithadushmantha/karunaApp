@@ -1,0 +1,29 @@
+.mainRow
+{
+    margin: 20px;
+    
+}
+
+.mainTopic{
+    visibility: hidden;
+    text-align: center;
+}
+
+.print{
+   float: right; 
+   margin: 20px;
+}
+.card_test{
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.452);
+}
+
+@media print {
+
+    .body{
+     margin: 3em;
+    
+   }
+   .mainTopic{
+    visibility: visible;
+    text-align: center;
+}}

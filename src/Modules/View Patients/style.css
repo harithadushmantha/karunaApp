@@ -1,0 +1,46 @@
+.data-table{
+    margin-right: -210px;
+    text-align: left;
+}
+.tableTitle
+{
+    padding-top: 50px;
+}
+.date-picker{
+    width: 170px;
+    padding-left: 10px;
+    margin-left: 10px;
+    float: left;
+}
+.datePicker{
+    float: left;
+    margin-left: -100px;
+}
+.date_button{
+    height: 30px;
+    margin-left: -240px;
+}
+
+
+.mainTopicI{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: center;
+    /* margin-left: -70px; */
+    }
+    .form-label-left{
+    margin-left: -100px;
+
+    } 
+.backButton{
+    float: left;
+    margin-left: -150px;
+} 
+.date_reset{
+    margin-left: 10px;
+}
+.table{
+    text-align: left;
+    
+}

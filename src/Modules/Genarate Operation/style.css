@@ -1,0 +1,31 @@
+.free{
+    padding-right: 500px;
+}
+.paid{
+    padding-right: 480px;
+    left: 1px;
+}
+.btton
+{
+   left: -150px;
+}
+.name{
+    padding-top: 30px;
+}
+.error{
+   /* padding-right: 10px; */
+   padding-left: 2px;
+}
+
+.mainTopicO{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: center;
+    margin-left: -80px;
+    }
+    .form-label-left{
+    margin-left: -150px;
+    
+    
+    }

@@ -1,0 +1,40 @@
+.free{
+    padding-right: 500px;
+}
+.paid{
+    padding-right: 480px;
+}
+.button
+{
+   margin-left: -550px;
+}
+.name{
+    padding-top: 30px;
+}
+.error{
+   /* padding-right: 10px; */
+   padding-left: 2px;
+}
+.male{
+    padding-right: 3500px;
+}
+.female{
+    padding-right: 580px;
+}
+
+.mainTopicP{
+    color: rgb(39, 38, 38);
+    font-weight: 300;
+    text-shadow: 2px 2px 2px rgb(189, 185, 185);
+    text-align: center;
+    margin-left: -80px;
+    }
+    .form-label-left{
+    margin-left: -150px;
+    
+    
+    }
+.radioCheck{
+    font-size: 13px;
+    color: red;
+}    
